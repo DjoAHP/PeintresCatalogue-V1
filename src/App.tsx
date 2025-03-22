@@ -212,6 +212,16 @@ const initialPainters: Painter[] = [
     image:
       "https://static.nationalgeographic.fr/files/styles/image_3200/public/08-love-and-beauty.jpg?w=1900&h=1299",
   },
+  {
+    id: "21",
+    name: "Jean Louis Andre Theodore Gericault",
+    birth: 1791,
+    death: 1824,
+    origin: "Rouen, France",
+    link: "https://fr.gallerix.ru/storeroom/145241820/",
+    image:
+      "https://artsdot.com/ADC/Art-ImgScreen-1.nsf/O/A-8Y3ANT/$FILE/Jean-louis-andre-theodore-gericault-the-raft-of-the-medusa.Jpg",
+  },
 ];
 
 function App() {
