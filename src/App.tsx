@@ -309,6 +309,66 @@ const initialPainters: Painter[] = [
     link: "https://gallerix.ru/storeroom/55174892/",
     image: "https://images.navigart.fr/1000/5D/89/5D89135.jpg",
   },
+  {
+    id: "31",
+    name: "Rembrandt Harmenszoon van Rijn",
+    birth: 1606,
+    death: 1669,
+    origin: "Leyde, Pays-Bas",
+    link: "https://gallerix.ru/album/Rembrandt",
+    image:
+      "https://www.meisterdrucke.fr/kunstwerke/1260px/Rembrandt%20van%20Rijn%20-%20The%20Blinding%20of%20Samson%20-%20%28MeisterDrucke-20521%29.jpg",
+  },
+  {
+    id: "32",
+    name: "Jean Auguste Dominique Ingres",
+    birth: 1780,
+    death: 1867,
+    origin: "Montauban, France",
+    link: "https://gallerix.ru/storeroom/775186124/",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/0/08/J%C3%BApiter_y_Tetis%2C_por_Dominique_Ingres.jpg",
+  },
+  {
+    id: "33",
+    name: "Francisco de Goya",
+    birth: 1746,
+    death: 1828,
+    origin: "Fuendetodos, Espagne",
+    link: "https://gallerix.ru/storeroom/383254267/",
+    image:
+      "https://media.beauxarts.com/uploads/2021/10/francisco_de_goya__hexensabbat__el_aquelerre___1797-98_lac.jpg",
+  },
+  {
+    id: "34",
+    name: "Artemisia Gentileschi (Une Elève de Le Caravage)",
+    birth: 1593,
+    death: 1656,
+    origin: "Rome/États pontificaux, Italy",
+    link: "https://gallerix.ru/storeroom/1447229473/",
+    image:
+      "https://medias.histoire-et-civilisations.com/api/v1/images/view/65f31f1978102e4f072901e9/width_1000/image.jpg",
+  },
+  {
+    id: "35",
+    name: "Domínikos Theotokópoulos dit/ le Greco",
+    birth: 1541,
+    death: 1614,
+    origin: "Candie, (République de Venise), Italy",
+    link: "https://gallerix.ru/storeroom/442445070/",
+    image:
+      "https://www.singulart.com/blog/wp-content/uploads/2023/10/The-Adoration-of-the-Shepherds-1612-1614-574x1024.jpg",
+  },
+  {
+    id: "36",
+    name: "Jean Cousin l'Ancien",
+    birth: 1503,
+    death: 1560,
+    origin: "Soucy (Yonne), France",
+    link: "https://gallerix.ru/storeroom/3575090783/N/3973742302/",
+    image:
+      "https://img.over-blog.com/600x402/2/89/06/71/Rennaissance-France/Jean-cousin-l-enlevement-d-Europe.jpg",
+  },
 ];
 
 function App() {
