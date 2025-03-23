@@ -196,8 +196,7 @@ const initialPainters: Painter[] = [
     name: "Albrecht Dürer",
     birth: 1471,
     death: 1528,
-    origin:
-      "Nuremberg, Cité libre impériale de Nuremberg, Saint-Empire romain germanique, Allemagne",
+    origin: "Nuremberg, Saint-Empire romain germanique, Allemagne",
     link: "https://fr.gallerix.ru/storeroom/825575191/",
     image:
       "https://medias.gazette-drouot.com/prod/medias/mediatheque/137433.jpg",
@@ -221,6 +220,94 @@ const initialPainters: Painter[] = [
     link: "https://fr.gallerix.ru/storeroom/145241820/",
     image:
       "https://artsdot.com/ADC/Art-ImgScreen-1.nsf/O/A-8Y3ANT/$FILE/Jean-louis-andre-theodore-gericault-the-raft-of-the-medusa.Jpg",
+  },
+  {
+    id: "22",
+    name: "Piero di Cosimo",
+    birth: 1462,
+    death: 1522,
+    origin: "Florence, Italy",
+    link: "https://fr.gallerix.ru/storeroom/734167568/",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Piero_di_Cosimo_-_Liberazione_di_Andromeda_-_Google_Art_Project.jpg/1200px-Piero_di_Cosimo_-_Liberazione_di_Andromeda_-_Google_Art_Project.jpg",
+  },
+  {
+    id: "23",
+    name: "Domenico Ghirlandaio",
+    birth: 1449,
+    death: 1494,
+    origin: "République de Florence, Italy",
+    link: "https://gallerix.ru/storeroom/349690011/",
+    image:
+      "https://www.larousse.fr/encyclopedie/data/images/1312244-Domenico_Ghirlandaio_Portrait_dun_vieillard_et_de_son_petit-fils.jpg",
+  },
+  {
+    id: "24",
+    name: "Dosso Dossi (Jean-François de Nicolas de Luteri)",
+    birth: 1489,
+    death: 1542,
+    origin: "Mirandola, Italy",
+    link: "https://gallerix.ru/storeroom/565731854/",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Dosso_Dossi_010.jpg/250px-Dosso_Dossi_010.jpg",
+  },
+  {
+    id: "25",
+    name: "Giorgio Vasari",
+    birth: 1511,
+    death: 1574,
+    origin: "Arezzo (république de Florence), Italy",
+    link: "https://gallerix.ru/album/Vasari",
+    image:
+      "https://artsdot.com/ADC/Art-ImgScreen-2.nsf/O/A-8Y2UW5/$FILE/Giorgio_vasari-allegory_of_the_immaculate_conception.Jpg",
+  },
+  {
+    id: "26",
+    name: "Benozzo Gozzoli",
+    birth: 1420,
+    death: 1497,
+    origin: "Florence, Italy",
+    link: "https://gallerix.ru/storeroom/1100894218/",
+    image: "https://arthive.com/res/media/img/oy800/work/630/181889@2x.jpg",
+  },
+  {
+    id: "27",
+    name: "Agnolo di Cosimo dit / Bronzino",
+    birth: 1503,
+    death: 1572,
+    origin: "Florence, Italy",
+    link: "https://gallerix.ru/storeroom/1857473792/",
+    image:
+      "https://www.radiofrance.fr/s3/cruiser-production/2020/05/9ea372dc-bb6f-4548-bbad-bfffef55c0c3/1200x680_bronzino_-_allegorie_du_triomphe_de_venus_1540-1545.jpg",
+  },
+  {
+    id: "28",
+    name: "Andrea Mantegna",
+    birth: 1431,
+    death: 1506,
+    origin: "Venice, Italy",
+    link: "https://gallerix.ru/storeroom/33937639/",
+    image:
+      "https://www.worldhistory.org/img/r/p/500x600/12691.jpg?v=1713475203",
+  },
+  {
+    id: "29",
+    name: "Antonello da Messina",
+    birth: 1430,
+    death: 1479,
+    origin: "Royaume de Sicile, Italy",
+    link: "https://gallerix.ru/storeroom/1524174720/",
+    image:
+      "https://www.jeanpaulbarreaud.com/wp-content/uploads/2020/04/JPB-blog-antonello-da-messina-gallery-04.jpg",
+  },
+  {
+    id: "30",
+    name: "Nicolas Poussin",
+    birth: 1594,
+    death: 1665,
+    origin: "Normandie, France",
+    link: "https://gallerix.ru/storeroom/55174892/",
+    image: "https://images.navigart.fr/1000/5D/89/5D89135.jpg",
   },
 ];
 
