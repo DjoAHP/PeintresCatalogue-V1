@@ -369,6 +369,16 @@ const initialPainters: Painter[] = [
     image:
       "https://img.over-blog.com/600x402/2/89/06/71/Rennaissance-France/Jean-cousin-l-enlevement-d-Europe.jpg",
   },
+  {
+    id: "37",
+    name: "Giovanni Baglione",
+    birth: 1566,
+    death: 1644,
+    origin: "Rome, Italy",
+    link: "https://gallerix.ru/storeroom/128247334/",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Giovanni_Baglione_-_The_Divine_Eros_Defeats_the_Earthly_Eros_-_Google_Art_Project.jpg/195px-Giovanni_Baglione_-_The_Divine_Eros_Defeats_the_Earthly_Eros_-_Google_Art_Project.jpg",
+  },
 ];
 
 function App() {
