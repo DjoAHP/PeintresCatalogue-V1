@@ -238,8 +238,7 @@ const initialPainters: Painter[] = [
     death: 1494,
     origin: "République de Florence, Italy",
     link: "https://gallerix.ru/storeroom/349690011/",
-    image:
-      "https://www.larousse.fr/encyclopedie/data/images/1312244-Domenico_Ghirlandaio_Portrait_dun_vieillard_et_de_son_petit-fils.jpg",
+    image: "https://sr.gallerix.ru/G/349690011/1974339120.jpg",
   },
   {
     id: "24",
@@ -378,6 +377,43 @@ const initialPainters: Painter[] = [
     link: "https://gallerix.ru/storeroom/128247334/",
     image:
       "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Giovanni_Baglione_-_The_Divine_Eros_Defeats_the_Earthly_Eros_-_Google_Art_Project.jpg/195px-Giovanni_Baglione_-_The_Divine_Eros_Defeats_the_Earthly_Eros_-_Google_Art_Project.jpg",
+  },
+  {
+    id: "38",
+    name: "Annibal Carrache",
+    birth: 1560,
+    death: 1609,
+    origin: "Bologne, Italy",
+    link: "https://gallerix.ru/storeroom/2136404724/",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Annibale_Carracci_Assumption_of_the_Virgin.jpg/220px-Annibale_Carracci_Assumption_of_the_Virgin.jpg",
+  },
+  {
+    id: "39",
+    name: "le Dominiquin (Domenico Zampieri)",
+    birth: 1581,
+    death: 1641,
+    origin: "Bologne, Italy",
+    link: "https://gallerix.ru/storeroom/1378206396/",
+    image: "https://sr.gallerix.ru/D/1378206396/459061126.jpg",
+  },
+  {
+    id: "40",
+    name: "Francesco Albani (l’Albane)",
+    birth: 1578,
+    death: 1660,
+    origin: "Bologne, Italy",
+    link: "https://gallerix.ru/storeroom/1074702132/",
+    image: "https://sr.gallerix.ru/A/1074702132/1091754436.jpg",
+  },
+  {
+    id: "40",
+    name: "Mattia Preti",
+    birth: 1613,
+    death: 1699,
+    origin: "Taverna, Italy",
+    link: "https://gallerix.ru/storeroom/1347339950/",
+    image: "https://sr.gallerix.ru/P/1347339950/460244620.jpg",
   },
 ];
 
