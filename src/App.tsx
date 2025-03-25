@@ -415,6 +415,15 @@ const initialPainters: Painter[] = [
     link: "https://gallerix.ru/storeroom/1347339950/",
     image: "https://sr.gallerix.ru/P/1347339950/460244620.jpg",
   },
+  {
+    id: "41",
+    name: "José de Ribera (Mouvement Caravagesque)",
+    birth: 1591,
+    death: 1652,
+    origin: "Xàtiva, Espagne",
+    link: "https://gallerix.ru/storeroom/1247608818/",
+    image: "https://sr.gallerix.ru/R/1247608818/1984973487.jpg",
+  },
 ];
 
 function App() {
